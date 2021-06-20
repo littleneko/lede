@@ -1,0 +1,16 @@
+[submodule "package/diy/luci-app-adguardhome"]
+	path = package/diy/luci-app-adguardhome
+	url = https://github.com/rufengsuixing/luci-app-adguardhome
+[submodule "package/diy/luci-app-serverchan"]
+	path = package/diy/luci-app-serverchan
+	url = https://github.com/tty228/luci-app-serverchan.git
+[submodule "package/diy/luci-app-wrtbwmon"]
+	path = package/diy/luci-app-wrtbwmon
+	url = https://github.com/brvphoenix/luci-app-wrtbwmon.git
+[submodule "package/diy/luci-theme-argon"]
+	path = package/diy/luci-theme-argon
+	url = https://github.com/jerrykuku/luci-theme-argon
+	branch = 18.06
+[submodule "package/diy/OpenClash"]
+	path = package/diy/OpenClash
+	url = https://github.com/vernesong/OpenClash.git
