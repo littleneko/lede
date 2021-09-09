@@ -14,3 +14,6 @@
 [submodule "package/diy/OpenClash"]
 	path = package/diy/OpenClash
 	url = https://github.com/vernesong/OpenClash.git
+[submodule "package/diy/luci-app-jd-dailybonus"]
+	path = package/diy/luci-app-jd-dailybonus
+	url = https://github.com/jerrykuku/luci-app-jd-dailybonus.git
